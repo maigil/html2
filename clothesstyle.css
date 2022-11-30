@@ -1,0 +1,66 @@
+body {
+	background-image:url(images/background.png);
+	background-repeat:repeat;
+	width:98.9%;
+}
+
+b {
+	font-size:35;
+}
+
+
+.up {
+	border:8px solid white;
+	display:flex;
+	font-size:150px;
+	text-align:center;
+	justify-content:center;
+	color:black;
+	font-family:arial;
+}
+
+.under {
+	font-size:24px;
+	font-family:Yu Gothic Medium;
+	color:black;
+	background-color:f4ffdc;
+	padding: 14px 20px;
+	text-decoration: none;
+    text-align: center;
+	justify-content:flex-start;
+}
+
+.row {
+	width:100%;
+	display:flex;
+    justify-content: space-around;
+}
+
+.main {
+	width:100%;
+	display:flex;
+    justify-content: space-between;
+}
+
+.photo {
+	width:23%;
+	border:3px solid black;
+}
+
+.special {
+	width:100%;
+	display:flex;
+    justify-content: flex;
+}	
+   
+.down {
+	font-size:30px;
+	font-family:Yu Gothic Medium;
+	color:black;
+	text-align: center;
+	justify-content:center;
+}	
+
+.logo {
+	width:5%;
+}
